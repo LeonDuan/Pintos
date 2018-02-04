@@ -1,0 +1,13 @@
+cscope.files
+cscope.out
+TAGS
+tags
+*.o
+*.a
+*~
+.DS_Store
+.PINTOS_PATH
+.cproject
+.project
+.settings/
+utils/qemu
